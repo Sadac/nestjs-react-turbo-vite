@@ -1,0 +1,56 @@
+{
+  "login": {
+    "form": {
+      "title": "Inicia sesión",
+      "error": "Error al iniciar sesión",
+      "email": {
+        "title": "Email",
+        "placeholder": "Ingresa tu email",
+        "invalid": "Email inválido"
+      },
+      "password": {
+        "title": "Contraseña",
+        "placeholder": "Ingresa tu contraseña",
+        "invalid": "Contraseña inválida. Debe tener al menos {{minLength}} caracteres"
+      }
+    },
+    "button": {
+      "title": "Inicia sesión",
+      "loading": "Inciando sesión..."
+    },
+    "cta": {
+      "pre": "¿No tienes una cuenta?",
+      "action": "Crear cuenta"
+    }
+  },
+  "register": {
+    "form": {
+      "title": "Regístrate",
+      "error": "Error al registrar la cuenta",
+      "conflict": "el email ya está en uso",
+      "email": {
+        "title": "Email",
+        "placeholder": "Ingresa tu email",
+        "invalid": "Email inválido"
+      },
+      "confirmEmail": {
+        "title": "Confirma tu email",
+        "placeholder": "Confirma tu email",
+        "error": "Los emails no coinciden"
+      },
+      "password": {
+        "title": "Contraseña",
+        "placeholder": "Crea tu contraseña",
+        "invalid": "Contraseña inválida. Debe tener al menos {{minLength}} caracteres"
+      }
+    },
+    "button": {
+      "title": "Crear cuenta",
+      "loading": "Creando cuenta..."
+    },
+    "cta": {
+      "pre": "¿Ya tienes una cuenta?",
+      "action": "Inicia sesión"
+    }
+  }
+}

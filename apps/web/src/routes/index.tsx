@@ -8,6 +8,8 @@ import NotFound from '@/pages/NotFound';
 export default function () {
   return (
     <Routes>
+      <Route path="/" element={<>Main App Home</>} />
+
       <Route path="/login" element={<LoginPage />} />
 
       <Route path="/register" element={<RegisterPage />} />
